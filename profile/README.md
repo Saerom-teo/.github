@@ -19,7 +19,9 @@
     <td align="center"></td>
     <td align="center">Jeong Min Kyo</td>
   </tr>
+</table>
       
+<table>
   <tr>
     <td align="center"><a href="https://github.com/imrani-i"><img src="https://avatars.githubusercontent.com/imrani-i" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JhyunJ1"><img src="https://avatars.githubusercontent.com/JhyunJ1" width="150px;" alt="">
@@ -33,7 +35,9 @@
     <td align="center"></td>
     <td align="center"></td>
   </tr>
-
+</table>
+      
+<table>
   <tr>
     <td align="center"><a href="https://github.com/kimsh300"><img src="https://avatars.githubusercontent.com/kimsh300" width="150px;" alt="">
     <td align="center"><a href="https://github.com/kimyurie"><img src="https://avatars.githubusercontent.com/kimyurie" width="150px;" alt="">
