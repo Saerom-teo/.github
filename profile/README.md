@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/cykim1228"><b>권대현</b></td>
+    <td align="center"><a href="https://github.com/DevHyun2"><b>권대현</b></td>
     <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교</b></td>
   </tr>
  <tr>
@@ -28,8 +28,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/cykim1228"><b>서세란</b></td>
-    <td align="center"><a href="https://github.com/MinkyoDev"><b>장현지</b></td>
+    <td align="center"><a href="https://github.com/imrani-i"><b>서세란</b></td>
+    <td align="center"><a href="https://github.com/JhyunJ1"><b>장현지</b></td>
   </tr>
  <tr>
     <td align="center"></td>
@@ -44,8 +44,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/cykim1228"><b>김시형</b></td>
-    <td align="center"><a href="https://github.com/MinkyoDev"><b>김유리</b></td>
+    <td align="center"><a href="https://github.com/kimsh300"><b>김시형</b></td>
+    <td align="center"><a href="https://github.com/kimyurie"><b>김유리</b></td>
   </tr>
  <tr>
     <td align="center"></td>
