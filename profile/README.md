@@ -1,5 +1,11 @@
 # 🌱 새롬터
 
+## Server Repository
+[새롬터 Server repository](https://github.com/Saerom-teo/server)
+
+## AI Repository
+[새롬터 AI repository](https://github.com/Saerom-teo/ai)
+
 ## 1. 프로젝트 소개
 플라스틱 재활용 및 친환경 제품 판매 온라인 플랫폼인 새롬터입니다!
 
