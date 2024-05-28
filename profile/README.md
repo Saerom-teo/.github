@@ -22,8 +22,8 @@
     <td align="center"><a href="https://github.com/MinkyoDev"><b>정민교</b></td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center">Jeong Min Kyo</td>
+    <td align="center">Kwon Daehyun</td>
+    <td align="center">Jeong Minkyo</td>
   </tr>
 </table>
       
@@ -38,8 +38,8 @@
     <td align="center"><a href="https://github.com/JhyunJ1"><b>장현지</b></td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">Seo Seran</td>
+    <td align="center">Jang Hyunji</td>
   </tr>
 </table>
       
@@ -54,7 +54,7 @@
     <td align="center"><a href="https://github.com/kimyurie"><b>김유리</b></td>
   </tr>
  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">kim Sihyeong</td>
+    <td align="center">Kim Yuri</td>
   </tr>
 </table>
